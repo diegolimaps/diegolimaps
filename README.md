@@ -1,7 +1,7 @@
 ### Olá, eu sou o Diego Lima
 
 - Em busca de meu primeiro emprego
-- Estudo Ciência de Dados na Sirius Education
+- Formado em Ciência de Dados na Sirius Education
 - Contate-me no e-mail: diego_lima@id.uff.br
 
 <div style="display: inline_block"><br>
